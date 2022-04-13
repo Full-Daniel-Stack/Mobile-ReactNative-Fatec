@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "appNumeroRandom",
+    "slug": "appNumeroRandom",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
