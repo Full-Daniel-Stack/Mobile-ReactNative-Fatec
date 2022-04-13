@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "appMultiplica",
+    "slug": "appMultiplica",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
